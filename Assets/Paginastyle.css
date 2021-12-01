@@ -1,0 +1,25 @@
+h1 {
+    font-family: New;
+    color: black;
+    text-align: center;
+}
+
+.Paragrafo {
+    font-family: New;
+    color: black;
+    text-align: center;
+}
+
+body {
+    background-color: #fff;
+}
+
+.CentroImagem {
+    display: flex;
+    justify-content: center;
+}
+
+@font-face {
+    font-family: New;
+    src: url(courier-new.ttf);
+}
